@@ -21,6 +21,17 @@ namespace LifxAPITests
         {
             testOutputHelper.WriteLine(lifxService.GetDevices().Result);
         }
+
+        private PowerOn payload = new PowerOn
+        {
+            Power = "on"
+        };
+            
+        [Fact]
+        public void TestSetState()
+        {
+            testOutputHelper.WriteLine(lifxService.SetState(payload).Result);
+        }
     }
 }
 
