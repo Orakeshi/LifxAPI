@@ -1,0 +1,10 @@
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/obj/Debug/netstandard2.0/LifxAPI.csproj.AssemblyReference.cache
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/obj/Debug/netstandard2.0/LifxAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/obj/Debug/netstandard2.0/LifxAPI.AssemblyInfoInputs.cache
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/obj/Debug/netstandard2.0/LifxAPI.AssemblyInfo.cs
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/obj/Debug/netstandard2.0/LifxAPI.csproj.CoreCompileInputs.cache
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/bin/Debug/netstandard2.0/LifxAPI.deps.json
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/bin/Debug/netstandard2.0/LifxAPI.dll
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/bin/Debug/netstandard2.0/LifxAPI.pdb
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/obj/Debug/netstandard2.0/LifxAPI.dll
+/Users/tommy/Documents/Dev/Solarflare/Labs/Labs-InteractiveStory/Library/LifxAPI/LifxAPI/obj/Debug/netstandard2.0/LifxAPI.pdb
